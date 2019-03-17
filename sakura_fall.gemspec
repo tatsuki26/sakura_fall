@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = SakuraFall::VERSION
   spec.authors     = ["tatsukichi"]
   spec.email       = ["ik.t2k.62@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of SakuraFall."
-  spec.description = "TODO: Description of SakuraFall."
+  spec.homepage    = "https://github.com/tatsuki26/sakura_fall"
+  spec.summary     = "Summary of SakuraFall."
+  spec.description = "Description of SakuraFall."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -27,5 +27,4 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rails", "~> 5.2.2", ">= 5.2.2.1"
 
-  spec.add_development_dependency "sqlite3"
 end
