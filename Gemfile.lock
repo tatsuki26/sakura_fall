@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sakura_fall (0.1.0)
+    sakura_fall (0.1.3)
       rails (~> 5.2.2, >= 5.2.2.1)
 
 GEM
@@ -107,7 +107,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.0)
     thor (0.20.3)
     thread_safe (0.3.6)
     tzinfo (1.2.5)
@@ -121,7 +120,6 @@ PLATFORMS
 
 DEPENDENCIES
   sakura_fall!
-  sqlite3
 
 BUNDLED WITH
    1.16.1
